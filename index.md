@@ -56,6 +56,13 @@ displayed if the 'eventbrite' field in the header is not set.
 </iframe>
 {% endif %}
 
+{% comment %}
+Fully booked comment
+{% endcomment %}
+<p id="requirements">
+  <strong>Registration status:</strong> This event is now fully booked and registration is closed. Thank you for your interest. We will repeat the workshop, if the paprticipants find it useful. Announcements will be shared via the QLib mailinglist.  
+</p>
+
 
 <h2 id="general">General Information</h2>
 

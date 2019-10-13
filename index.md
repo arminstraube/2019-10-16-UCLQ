@@ -231,6 +231,15 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
 {% include lc/schedule.html %}
 {% endif %}
 
+
+{% comment %}
+Exercise files
+A list of downloadable files needed for the exercises.
+{% endcomment %}
+<h2 id="exercise_files">Exercise Files</h2>
+
+<a href="swcCoC.txt">Download File Regex 1</a>
+
 {% comment %}
 Collaborative Notes
 

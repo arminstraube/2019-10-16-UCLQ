@@ -238,10 +238,10 @@ A list of downloadable files needed for the exercises.
 {% endcomment %}
 <h2 id="exercise_files">Exercise Files</h2>
 
-<a href="training_attendance.xlsx">Download File Tidy Data 1</a>
-<a href="species2.csv">Download File Tidy Data 2</a>
-<a href="swcCoC.txt">Download File Regex 1</a>
-<a href="PLS_FY17.csv">Download File Regex 2</a>
+<a href="training_attendance.xlsx">Download File Tidy Data 1</a> <br>
+<a href="species2.csv">Download File Tidy Data 2</a> <br>
+<a href="swcCoC.txt">Download File Regex 1</a> <br>
+<a href="PLS_FY17.csv">Download File Regex 2</a> <br>
 <a href="doaj-article-sample.csv">Download File OpenRefine</a>
 
 {% comment %}
